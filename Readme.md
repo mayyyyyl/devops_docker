@@ -1,6 +1,6 @@
 # Exercices Docker Devops
 
-## Maylis LE BORGNE - EPSI B3
+## Maylis LE BORGNE - EPSI B3 NANTES
 
 
 ## Prise en main
@@ -24,7 +24,7 @@ docker run --name jenkins-master -d -p 8080:8080 -p 50000:50000 -v /var/jenkins_
 
 # je m'identifie avec le initialAdminPassword puis je créer un utilisateur
 # sur l'interface de créer un projet puis je lance un build
-
+# photo de l'interface et des builds dans le dossier img
 
 # Nginx
 # je télécharge l'image
