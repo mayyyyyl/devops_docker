@@ -27,5 +27,7 @@ docker run --name jenkins-master -d -p 8080:8080 -p 50000:50000 -v /var/jenkins_
 
 
 # Nginx
+# je télécharge l'image
 docker pull nginx
+## je la lance je peux la voir sur 
 docker run --name docker-nginx -p 40:40 nginx
